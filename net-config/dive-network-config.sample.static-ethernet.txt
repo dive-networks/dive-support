@@ -1,0 +1,7 @@
+network_settings_revision: 2015-07-09.1
+
+ethernet_network_mode: static
+ethernet_static_ip_address: 192.168.2.8
+ethernet_netmask: 255.255.255.0
+ethernet_gateway: 192.168.2.1
+ethernet_dns_nameservers: 8.8.8.8  8.8.4.4

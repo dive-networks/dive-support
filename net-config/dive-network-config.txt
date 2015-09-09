@@ -1,0 +1,4 @@
+network_settings_revision: 2015-07-09.1
+
+ethernet_network_mode: dhcp
+ethernet_dns_nameservers: 8.8.8.8  8.8.4.4
