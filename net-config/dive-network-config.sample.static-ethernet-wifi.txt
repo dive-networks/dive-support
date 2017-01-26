@@ -7,6 +7,7 @@ ethernet_gateway: 192.168.2.1
 ethernet_dns_nameservers: 8.8.8.8  8.8.4.4
 
 wifi_network_1_ssid: "CaseSensitiveSSID"
+wifi_network_1_ssid_hidden: false
 wifi_network_1_password: "CaseSensitive Password"
 wifi_network_1_mode: static
 wifi_network_1_static_ip_address: 192.168.2.55
